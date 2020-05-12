@@ -1,0 +1,7 @@
+{
+  "WEB_TITLE": "爱媚蛙生物科技有限公司",
+  "API_BASE_URL": "http://101.132.155.9:3016//wp-json/wp/v2",
+  "CHAT_PAGE_URL": "https://xiaokefu.com.cn/api/imnew/home?channel_id=5220&channel_key=5220iasb&wechatapp_id=101146",
+  "WECHART_OFFICIAL_ACCOUNT": "https://obs-7bff.obs.cn-north-1.myhwclouds.com:443/76273248DF27A25C8CE9F59EAD4EBD8D.jpg",
+  "WECHART_QR_CODE": "https://obs-7bff.obs.cn-north-1.myhwclouds.com:443/B0A4EDF0278EA2ADF39EBDFFA6BC3E3E.jpg"
+}

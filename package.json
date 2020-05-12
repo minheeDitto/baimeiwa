@@ -1,0 +1,29 @@
+{
+  "name": "baimeiwa",
+  "version": "1.0.0",
+  "description": "My awe-inspiring Nuxt.js project",
+  "author": "BenjaminCCG",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.0.0-beta.6",
+    "@better-scroll/slide": "^2.0.0-beta.6",
+    "@nuxtjs/axios": "^5.3.6",
+    "animate.css": "^3.7.2",
+    "element-ui": "^2.4.11",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.0.0",
+    "vue-piczoom": "^1.0.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "svg-sprite-loader": "^4.2.6"
+  }
+}
