@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "animate.css": "^3.7.2",
     "element-ui": "^2.4.11",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "vue-piczoom": "^1.0.6"
   },
